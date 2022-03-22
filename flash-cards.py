@@ -1,5 +1,6 @@
 # flash cards for learning Boolean expresions in python
 # DO NOT type in your answer, just think it and hit enter
+# Thanks
 
 import random
 import time
